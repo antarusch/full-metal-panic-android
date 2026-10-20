@@ -34,9 +34,8 @@ These changes are specific to this title. They do not establish compatibility wi
 
 ## Downloads in this release
 
-- **Alpha 71 protected master:** `Full_Metal_Panic_Android_Alpha71_MASTER.apk` — the exact preserved master APK.
-- **Alpha 72 IconFix branding update:** `Full_Metal_Panic_Android_Alpha72_IconFix.apk` — the newer app icon/background packaging, using the same signing identity. The original masters remain preserved.
+- **Alpha 72 IconFix branding update:** `Full_Metal_Panic_Android_Alpha72_IconFix.apk` — the newer app icon/background packaging, using the same signing identity.
 
-Both are alpha snapshots. The branding update is supplied separately so the exact master remains available. Android only permits a normal update to a higher version code; install the master first if you intend to compare both builds.
+This is an experimental alpha release.
 
 SHA-256 values are in `SHA256SUMS.txt`. APK signatures and archive integrity were checked before preparing this release.
